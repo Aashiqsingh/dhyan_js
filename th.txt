@@ -1,0 +1,61 @@
+Programming language :- programming language is a set of instruction given to computer to perform a specif task.
+main()
+ex : c , cpp , java
+
+scripting language :- scripting language is a subset of programming language.
+single line ---
+ex : python , javascript , html , css
+
+There are three ways to define js 
+1. external js [.js] 
+2. internal js <script></script>
+3. inline js 
+
+
+static page :
+    - when you declared a variable then u need to declare datatype
+    int a = 10
+
+Dynamic page :
+    - here can't required to define data types
+    a = 10
+
+
+Js - JavaScript -> have no data types
+
+
+Where js is run?
+- browser - > client side 
+
+c  , cpp , java 
+- server side --> computer compile
+
+Js History :
+Java Script is devloped by brenden eich by 1995. for netscap navigator browser.
+
+javaScript engine :
+- spidermonkey -> firefox 
+- chakra -> internet exporer
+- v8 -> google chrome [node] 
+- javaScript core : safari 
+- rhino : java 
+
+
+Use of javascript
+- To manipulate the Dom.
+Dom --> Document object model 
+
+
+Javascript have no data type 
+
+There are three keyword.
+1. var --> global scope
+2. let --> block scope
+3. const --> block scope and can't change value.
+
+
+a = 10;
+
+{
+    
+}
