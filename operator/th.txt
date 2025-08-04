@@ -1,0 +1,18 @@
+There are three types of operators in JavaScript:
+1. unary operators
+    - it will requuired only one operand
+    - example: ++a , a++
+2. binary operators
+    - it will require two operands
+    - example: a + b , a - b
+3. ternary operators
+    - it will require three operands
+    - example: a ? b : c
+
+
+Binary operator:
+1. Airthmatic Operator : + , - , * , / , % , **
+2. Relational Operator : == , === , != , !== , < , > , <= , >= 
+3. Logical Operator : && , || , !
+4. Assignment Operator : = ,( += , -= , *= , /= , %= , **=)-- short hand property
+5. Bitwise Operator : & , | , ^ , << , >>
